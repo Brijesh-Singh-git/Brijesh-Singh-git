@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brijesh</h1>
-<h3 align="center">Software Engineer 👽 with a love for creating practical software solutions to everyday challenges.</h3>
+<h3 align="center">Software Developer & Tester 👽 with a love for creating practical software solutions to everyday challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh-singh-git&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh-singh-git" /> </p>
 

@@ -16,6 +16,9 @@
     <img src="https://cdn.svgporn.com/logos/express.svg" title="Expressjs" width="75" /> <img src="https://cdn.svgporn.com/logos/selenium.svg" title="Selenium" width="35" /> <img src="https://cdn.svgporn.com/logos/jenkins.svg" title="Jenkins" width="35" /> <img src="https://cdn.svgporn.com/logos/maven.svg" title="Maven" width="75" /> <img src="https://cdn.svgporn.com/logos/cucumber.svg" title="Cucumber" width="35" /> <img src="https://cdn.svgporn.com/logos/appium.svg" title="Appium" width="35" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" width="35" />
 </p>
 
+ 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saimohanayinam&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true&locale=en" alt="brijesh-singh-git" /></p>

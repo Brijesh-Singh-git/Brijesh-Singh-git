@@ -25,4 +25,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true&locale=en" alt="brijesh-singh-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijesh-singh-git&" alt="brijesh-singh-git" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijesh-singh-git&" alt="brijesh-singh-git" /></p> 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/brijesh-singh-git/count.svg" />
+</p>

@@ -22,8 +22,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh-singh-git&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true&locale=en" alt="brijesh-singh-git" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true&locale=en" alt="brijesh-singh-git" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijesh-singh-git&" alt="brijesh-singh-git" /></p> 
 

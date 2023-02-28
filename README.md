@@ -24,6 +24,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260">
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh-singh-git&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 [![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true)](https://github.com/brijesh-singh-git)
 
 

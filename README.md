@@ -34,4 +34,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijesh-singh-git&" alt="brijesh-singh-git" /></p> 
 
+<h2 align="left">⚡Progress Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=brijesh-singh-git&theme=react-light&hide_border=true" /></a>
 
+
+<br/>

@@ -17,7 +17,8 @@
     <img src="https://cdn.svgporn.com/logos/express.svg" title="Expressjs" width="75" /> <img src="https://cdn.svgporn.com/logos/selenium.svg" title="Selenium" width="35" /> <img src="https://cdn.svgporn.com/logos/jenkins.svg" title="Jenkins" width="35" /> <img src="https://cdn.svgporn.com/logos/maven.svg" title="Maven" width="75" /> <img src="https://cdn.svgporn.com/logos/cucumber.svg" title="Cucumber" width="35" /> <img src="https://cdn.svgporn.com/logos/appium.svg" title="Appium" width="35" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" width="35" />
 </p>
 
-
+🌐 Connect with me:<br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/singh._.brijesh/?igshid=ZDdkNTZiNTM%3D) 
  
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260">
@@ -30,6 +31,7 @@
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true&locale=en" alt="brijesh-singh-git" /></p> -->
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijesh-singh-git&" alt="brijesh-singh-git" /></p> 
 

@@ -27,12 +27,12 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh-singh-git&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijesh-singh-git" alt="brijesh-singh" /></a> </p> 
-<br>
+
 
 [![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true)](https://github.com/brijesh-singh-git)
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijesh-singh-git" alt="brijesh-singh" /></a> </p> 
+<br>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true&locale=en" alt="brijesh-singh-git" /></p> -->
 
 

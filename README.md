@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm Brijesh Singh </h1>
 <h3 align="center">Software Developer & Tester 👽 with a love for creating practical software solutions to everyday challenges.</h3>
-<h3 align="center">I love to code and have good skills in Testing code-quality </h3>
+<h3 align="center">I love to code and have good skills in Testing code-quality </h3> 
+
+
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh-singh-git&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh-singh-git" /> </p>
@@ -26,9 +28,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260">
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh-singh-git&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh-singh-git&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-
+<a href="https://github.com/brijesh-singh-git/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brijesh-singh-git&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
 
 [![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true)](https://github.com/brijesh-singh-git)
 

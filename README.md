@@ -7,10 +7,10 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh-singh-git&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh-singh-git" /> </p>
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/brijesh-singh-atinfosys/" target="blank"><img align="center" src= "https://cdn.svgporn.com/logos/linkedin.svg" alt="https://www.linkedin.com/in/brijesh-singh-atinfosys/" height="30" width="40" /></a>
-</p> -->
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p >

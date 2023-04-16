@@ -2,6 +2,11 @@
 <h3 align="center">Software Developer & Tester 👽 with a love for creating practical software solutions to everyday challenges.</h3>
 <h3 align="center">I love to code and have good skills in Testing code-quality </h3> 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/106757278/232265853-b8247677-007f-4c80-b43f-d91327898963.jpg" width="400" height="250" align="between"> 
+
+ 
+</p>
 
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />

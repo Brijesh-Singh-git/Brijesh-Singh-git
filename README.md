@@ -25,10 +25,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260">
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh-singh-git&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <a href="https://github.com/brijesh-singh-git/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brijesh-singh-git&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brijesh-singh-git&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=light#gh-light-mode-only" alt="Rick Staa's Language stats" />
 </a>
 
 [![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true)](https://github.com/brijesh-singh-git)

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Brijesh Singh  </h1>
+<h1 align="center">Hi 👋🏻, I'm Brijesh Singh </h1>
 <h3 align="center">Software Developer & Tester 👽 with a love for creating practical software solutions to everyday challenges.</h3>
 <h3 align="center">I love to code and have good skills in Testing the code-quality. </h3> 
 

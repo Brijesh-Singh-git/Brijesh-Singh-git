@@ -19,8 +19,6 @@
     <img src="https://cdn.svgporn.com/logos/express.svg" title="Expressjs" width="75" /> <img src="https://cdn.svgporn.com/logos/selenium.svg" title="Selenium" width="35" /> <img src="https://cdn.svgporn.com/logos/jenkins.svg" title="Jenkins" width="35" /> <img src="https://cdn.svgporn.com/logos/maven.svg" title="Maven" width="75" /> <img src="https://cdn.svgporn.com/logos/cucumber.svg" title="Cucumber" width="35" /> <img src="https://cdn.svgporn.com/logos/appium.svg" title="Appium" width="35" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" width="35" />
 </p>
 
-
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260">
 
 <a href="https://github.com/brijesh-singh-git/github-readme-stats#gh-light-mode-only"> 

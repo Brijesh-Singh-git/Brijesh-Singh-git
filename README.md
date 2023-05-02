@@ -31,7 +31,6 @@
 <br>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijesh-singh-git&show_icons=true&locale=en" alt="brijesh-singh-git" /></p> -->
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijesh-singh-git&" alt="brijesh-singh-git" /></p> 
 
 <h2 align="left">⚡Progress Graph:</h2>

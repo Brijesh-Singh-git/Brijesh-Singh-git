@@ -40,7 +40,6 @@
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=brijesh-singh-git&theme=react-dark&hide_border=true" /></a>
 
 
-
 <br/>
 
  

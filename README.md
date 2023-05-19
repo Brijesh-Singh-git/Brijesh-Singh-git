@@ -3,7 +3,6 @@
 <h3 align="center">I love to code and have good skills in Testing the code-quality. </h3> 
 
 
-
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh-singh-git&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh-singh-git" /> </p>
 
